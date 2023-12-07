@@ -1,6 +1,7 @@
 # this is an h1 header
 ## this is an h2 header
-
+- [ ] finish studying algo analysis
+- [x] do the exam on SAD
 
 #### I added some text that tests the markdown language
 
